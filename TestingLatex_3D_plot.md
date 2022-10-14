@@ -10,6 +10,8 @@ header-includes:
 
 **This is LATEX 3D plot test in markdown.**
 
+# vector column part #
+
 $$
 \begin{bmatrix}
            x_{1} \\
@@ -18,6 +20,9 @@ $$
            x_{m}
 \end{bmatrix}
 $$ 
+
+
+# 3D plot part #
 
 $$
 \pgfplotsset{compat = newest}
