@@ -10,7 +10,7 @@ header-includes:
 
 **This is LATEX 3D plot test in markdown.**
 
-# vector column part #
+# vector column represenation part #
 
 $$
 \begin{bmatrix}
